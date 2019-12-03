@@ -12,7 +12,7 @@ namespace TheRealGitRepoExample
         {
             // This is the best of changes for the world!?
             Console.WriteLine("Hello World");
-            Console.ReadKey();
+            Console.ReadKey();      // Hello
         }
     }
 }
