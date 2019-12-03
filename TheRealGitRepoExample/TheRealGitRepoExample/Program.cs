@@ -11,6 +11,8 @@ namespace TheRealGitRepoExample
         static void Main(string[] args)
         {
             // This is the best of changes for the world!?
+            Console.WriteLine("Hello World");
+            Console.ReadKey();
         }
     }
 }
